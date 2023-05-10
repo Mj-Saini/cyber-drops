@@ -45,12 +45,10 @@
     transform: translateX(-100%);
   }
 }
-
 /* Team */
 .team_cards_formating {
   height: 300px !important;
 }
-
 /* slider */
 .slick-dots li button:before {
   font-family: "slick";
@@ -60,7 +58,6 @@
 .slick-dots {
   bottom: -28px !important;
 }
-
 .slick-dots li button:before {
   font-family: "slick";
   font-size: 10px;
@@ -79,7 +76,6 @@
   border: 1.5px solid white;
   border-radius: 50%;
 }
-
 .slick-dots li.slick-active button:before {
   opacity: 1;
   color: white !important;
@@ -130,7 +126,6 @@
     transform: rotate(0deg);
   }
 }
-
 /* Svg-section */
 a:hover svg.fill-changer path {
   fill: black;
@@ -144,7 +139,6 @@ ul li .hoverbg svg {
   position: relative;
   z-index: 1;
 }
-
 ul li .hoverbg::before {
   content: "";
   position: absolute;
@@ -160,11 +154,9 @@ ul li .hoverbg::before {
   filter: blur(7.34879px);
   opacity: 0;
 }
-
 ul li .hoverbg:hover:before {
   opacity: 1;
 }
-
 /* Works */
 .Works_count_01 {
   background: #f1ac73;
@@ -179,7 +171,6 @@ ul li .hoverbg:hover:before {
 .Works_sec_card:hover .Works_count_01 a {
   color: #f1ac73 !important;
 }
-
 .Works_sec_card {
   content: "";
   position: absolute;
@@ -272,7 +263,6 @@ ul li .hoverbg:hover:before {
   right: 0;
   width: 150px;
 }
-
 .moving_animation {
   animation: perasute 2s ease-in-out 0s infinite alternate;
 }
@@ -315,13 +305,11 @@ ul li .hoverbg:hover:before {
   height: 350px;
   background: linear-gradient(to bottom, black, transparent);
 }
-
 #RoadMap h2,
 p {
   z-index: 3;
   position: relative;
 }
-
 /* Accordion */
 .Faq_umbrell {
   top: 0%;
@@ -347,7 +335,6 @@ p {
   --bs-accordion-active-color: #0c63e4;
   --bs-accordion-active-bg: none !important;
 }
-
 .Accordion_items {
   content: "";
   position: absolute;
@@ -383,7 +370,6 @@ p {
     transform: rotate(360deg);
   }
 }
-
 .loader {
   border: 10px solid #f3f3f3;
   border-top: 10px solid #f1ac73;
@@ -392,7 +378,6 @@ p {
   height: 80px;
   animation: spin 1s linear infinite;
 }
-
 @media (max-width: 576px) {
   .w_umbrela_width {
     width: 100px;
@@ -454,7 +439,6 @@ p {
   .perasute2_position {
     width: 75px !important;
   }
-
   .umbrella_img {
     top: -5%;
     left: -8%;
@@ -563,7 +547,7 @@ p {
 }
 @media (min-width: 992px) {
   .perasute2_position {
-    width: 150px;
+    width: 150px !important;
   }
   .Partners_bg_img {
     background-image: url(./assets//img/webp/partner-bg-img.webp);
@@ -612,7 +596,6 @@ p {
     z-index: 1;
     transform: translateY(-50%);
   }
-
   .roadmap_center_icon {
     top: 50%;
     left: -10%;

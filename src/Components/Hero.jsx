@@ -32,7 +32,6 @@ function Hero() {
                 </span>{" "}
                 purus. Ullamcorper mattis risus suspendisse pretium tristique.
               </p>
-
               <a
                 class="ff_lato fw_medium fs_sm text-white z_index text_stroke mt-lg-5 mt-4 d-inline-block bottom_line explore_btn"
                 href="#about"

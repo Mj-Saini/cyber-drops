@@ -8,7 +8,6 @@ function Footer() {
     <>
       <section className="pt-5 position-relative mt-lg-5">
         <span className="bg_shadow2 position-absolute mt-5 moving_animation1"></span>
-
         <div className="container">
           <div
             data-aos="zoom-in"
@@ -21,14 +20,12 @@ function Footer() {
               Cyber Drops
             </h2>
             <p className="ff_lato fw-normal fs_sm text-white text-center mb-0 mt-2">
-              Viverra metus viverra rhoncus eget quam suspendisse diam{" "}
+              Viverra metus viverra rhoncus eget quam suspendisse diam
               <span className="d-block">
-                {" "}
                 amet, nisl. Mattis maecenas libero lacinia accumsan amet.
               </span>
             </p>
             <ul className="d-flex gap-3 align-items-center justify-content-center mt-4 p-0">
-              {" "}
               <li>
                 <a class="hoverbg position-relative" href="#about">
                   <img src={social} alt="icon" />

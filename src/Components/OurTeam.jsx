@@ -40,7 +40,6 @@ function OurTeam() {
           src={umbrella}
           alt="arrow"
         />
-
         <div className="container position-relative">
           <img
             onClick={() => MySlider.current.slickPrev()}

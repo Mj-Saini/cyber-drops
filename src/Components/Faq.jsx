@@ -29,17 +29,14 @@ function Faq() {
                   >
                     <Accordion.Header className="accordion_Header">
                       <h2 className="ff_lato fw_medium fs_xl text-white mb-0">
-                        {" "}
                         Egestas scelerisque duis quis aliquet. Consectetur?
                       </h2>
                     </Accordion.Header>
                     <Accordion.Body>
                       <p className="ff_lato fw-normal fs_sm text-white mb-0 mt-1">
-                        {" "}
                         Viverra metus viverra rhoncus eget quam suspendisse diam
                         amet, nisl. Mattis maecenas
                         <span className=" d-lg-block">
-                          {" "}
                           libero lacinia accumsan amet. Quam quam egestas
                           feugiat amet. Ut nibh vulputate.
                         </span>
@@ -55,17 +52,14 @@ function Faq() {
                   >
                     <Accordion.Header className="Accordion_Body">
                       <h2 className="ff_lato fw_medium fs_xl text-white mb-0">
-                        {" "}
                         Ac nec enim amet, leo lorem quis neque vitae aliquet?
                       </h2>
                     </Accordion.Header>
                     <Accordion.Body className="Accordion_Body">
                       <p className="ff_lato fw-normal fs_sm text-white mb-0 mt-1">
-                        {" "}
                         Viverra metus viverra rhoncus eget quam suspendisse diam
                         amet, nisl. Mattis maecenas
                         <span className=" d-lg-block">
-                          {" "}
                           libero lacinia accumsan amet. Quam quam egestas
                           feugiat amet. Ut nibh vulputate.
                         </span>
@@ -81,18 +75,15 @@ function Faq() {
                   >
                     <Accordion.Header className="Accordion_Body">
                       <h2 className="ff_lato fw_medium fs_xl text-white mb-0">
-                        {" "}
                         Sit laoreet nibh sit hac potenti. Non ullamcorper fames
                         nibh donec?
                       </h2>
                     </Accordion.Header>
                     <Accordion.Body className="Accordion_Body">
                       <p className="ff_lato fw-normal fs_sm text-white mb-0 mt-1">
-                        {" "}
                         Viverra metus viverra rhoncus eget quam suspendisse diam
                         amet, nisl. Mattis maecenas
                         <span className=" d-lg-block">
-                          {" "}
                           libero lacinia accumsan amet. Quam quam egestas
                           feugiat amet. Ut nibh vulputate.
                         </span>
@@ -113,11 +104,9 @@ function Faq() {
                     </Accordion.Header>
                     <Accordion.Body className="Accordion_Body">
                       <p className="ff_lato fw-normal fs_sm text-white mb-0 mt-1">
-                        {" "}
                         Viverra metus viverra rhoncus eget quam suspendisse diam
                         amet, nisl. Mattis maecenas
                         <span className=" d-lg-block">
-                          {" "}
                           libero lacinia accumsan amet. Quam quam egestas
                           feugiat amet. Ut nibh vulputate.
                         </span>
@@ -138,11 +127,9 @@ function Faq() {
                     </Accordion.Header>
                     <Accordion.Body className="Accordion_Body">
                       <p className="ff_lato fw-normal fs_sm text-white mb-0 mt-1">
-                        {" "}
                         Viverra metus viverra rhoncus eget quam suspendisse diam
                         amet, nisl. Mattis maecenas
                         <span className=" d-lg-block">
-                          {" "}
                           libero lacinia accumsan amet. Quam quam egestas
                           feugiat amet. Ut nibh vulputate.
                         </span>

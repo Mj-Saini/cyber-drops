@@ -24,14 +24,13 @@ function Works() {
                       style={{ zIndex: "0", position: "relative" }}
                       className="Works_count_01 d-flex justify-content-center align-items-center mt-2"
                     >
-                      {" "}
                       <a
                         style={{ zIndex: "2", position: "relative" }}
                         className="ff_lato fw-bold fs_2x8l text-white"
                       >
                         {data.serial}
                       </a>
-                    </span>{" "}
+                    </span>
                     <h2
                       style={{ zIndex: "1", position: "relative" }}
                       className="ff_lato fw-bold fs_xl text-white text-center mb-0 mt-lg-3 pt-3"

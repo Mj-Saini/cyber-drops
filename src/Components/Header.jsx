@@ -13,7 +13,6 @@ function Header() {
   }
   return (
     <section className="">
-      {" "}
       <div
         data-aos="fade-down"
         data-aos-easing="ease-in"
@@ -193,7 +192,6 @@ function Header() {
         <div className="d-lg-none d-flex ">
           <div className={` ${navShow ? "shownav" : " hidenav"}`}>
             <div className="container">
-              {" "}
               <ul class="ps-0 mb-0 d-flex flex-column py-5 align-items-center justify-content-center list-unstyled gap-3  pt-3 transition">
                 <li
                   onClick={() => setNavShow(!navShow)}
@@ -206,7 +204,6 @@ function Header() {
                     Home
                   </a>
                 </li>
-
                 <li onClick={() => setNavShow(!navShow)}>
                   <a
                     class="ff_lato fw-normal fs_sm text-white z_index text_stroke   bottom_line"
@@ -215,7 +212,6 @@ function Header() {
                     About
                   </a>
                 </li>
-
                 <li onClick={() => setNavShow(!navShow)}>
                   <a
                     class="ff_lato fw-normal fs_sm text-white z_index text_stroke  bottom_line"
@@ -241,7 +237,6 @@ function Header() {
                   </a>
                 </li>
                 <li onClick={() => setNavShow(!navShow)}>
-                  {" "}
                   <a
                     class="ff_lato fw_medium fs_sm text-white z_index text_stroke  bottom_line primary_btn py-2 px-3"
                     href="#about"
@@ -249,9 +244,7 @@ function Header() {
                     Connect Wallet
                   </a>
                 </li>
-
                 <ul className="d-flex gap-3 align-items-center p-0">
-                  {" "}
                   <li onClick={() => setNavShow(!navShow)}>
                     <a class="" href="#about">
                       <svg
@@ -268,16 +261,7 @@ function Header() {
                           />
                         </g>
                         <circle cx="16" cy="16" r="15.5" stroke="white" />
-                        <defs>
-                          {/* <clipPath id="clip0_1_354">
-                      <rect
-                        width="18.75"
-                        height="18.75"
-                        fill="white"
-                        transform="translate(7 7)"
-                      />
-                    </clipPath> */}
-                        </defs>
+                        <defs></defs>
                       </svg>
                     </a>
                   </li>

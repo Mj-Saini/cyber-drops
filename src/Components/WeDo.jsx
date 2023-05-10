@@ -14,7 +14,6 @@ function WeDo() {
         />
         <span className="bg_shadow position-absolute top-50 moving_animation1"></span>
         <span className="bg_shadow1 position-absolute moving_animation1"></span>
-
         <div className="container">
           <div className="row align-items-center justify-content-between flex-column-reverse flex-md-row">
             <div className="col-md-6 mt-5 mt-md-0">
@@ -36,27 +35,15 @@ function WeDo() {
                 <h2 className="ff_lato fw-bold fs_4x8l text-white mb-0">
                   What <span className="text_primary">we do</span>
                 </h2>
-                <p className="ff_lato fw-normal fs_md text-white mb-0  mt-sm-3 mt-2 pt-1">
-                  1000 Cyber Drops will be dropping on Ethereum in March
-                  <span className="d-xl-block">
-                    2022. Each and every Cyber Drop is uniquely hand crafted.
-                  </span>
-                  <span className="d-xl-block">
-                    This is just the beginning of our journey. Owning a Cyber
-                  </span>
-                  <span className="d-xl-block">
-                    Drop will unlock monthly airdrops and future governance
-                  </span>
-                  <span className="d-xl-block">
-                    rights in addition to our revolutionary axlorithm. We strive
-                  </span>
-                  <span className="d-xl-block">
-                    to always bring innovation and keep BUILDing. Cyber
-                  </span>
-                  <span className="d-xl-block">
-                    Drops is a community driven project and always will be
-                  </span>
-                  that way. That’s our promise.
+                <p className="ff_lato fw-normal fs_md text-white mb-0 mt-sm-3 mt-2 pt-1">
+                  1000 Cyber Drops will be dropping on Ethereum in March 2022.
+                  Each and every Cyber Drop is uniquely hand crafted. This is
+                  just the beginning of our journey. Owning a Cyber Drop will
+                  unlock monthly airdrops and future governance rights in
+                  addition to our revolutionary axlorithm. We strive to always
+                  bring innovation and keep BUILDing. Cyber Drops is a community
+                  driven project and always will be that way. That’s our
+                  promise.
                 </p>
               </div>
             </div>

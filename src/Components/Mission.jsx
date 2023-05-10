@@ -4,7 +4,7 @@ import mission from "../assets/img/webp/mission -img.webp";
 function Mission() {
   return (
     <>
-      <section className=" pt-4 pb-lg-5 pt-md-5 position-relative mb-5">
+      <section className="pt-4 pb-lg-5 pt-md-5 position-relative mb-5">
         <span className="bg_shadow position-absolute moving_animation1"></span>
         <span className="bg_shadow1 position-absolute moving_animation1"></span>
 
@@ -17,7 +17,6 @@ function Mission() {
                 data-aos-duration="2000"
                 className="d-flex justify-content-center align-items-center"
               >
-                {" "}
                 <img className="img-size" src={mission} alt="img" />
               </div>
             </div>
@@ -26,7 +25,6 @@ function Mission() {
                 data-aos="flip-right"
                 data-aos-easing="ease-out-cubic"
                 data-aos-duration="2000"
-                className=""
               >
                 <h1 className="ff_lato fw-bold fs_4x8l text-white mb-0">
                   Our
@@ -39,7 +37,6 @@ function Mission() {
                   isn’t easy to balance a full time job, family, and an active
                   investment portfolio, especially when just starting out.
                 </p>
-
                 <a
                   class="ff_lato fw_medium fs_xl text-white z_index text_stroke mt-lg-5 mt-4 d-inline-block bottom_line explore_btn"
                   href="#about"
